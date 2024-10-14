@@ -1,6 +1,3 @@
-Here's a professional README.md file for your GitHub repository:
-
-```markdown
 # CycoServe Admin Theme
 
 CycoServe is a robust framework built on top of Next.js, designed to streamline the development of full-stack applications. With an integrated Python CLI function, CycoServe enables developers to create API endpoints on the fly, enhancing the flexibility and efficiency of their projects. 
@@ -34,28 +31,3 @@ To get started with the CycoServe Admin Theme, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/cycoserve/CycoServe-Admin.git
-   ```
-
-2. Navigate to the theme directory:
-   ```bash
-   cd CycoServe-Admin
-   ```
-
-3. Install the necessary dependencies:
-   ```bash
-   npm install
-   ```
-
-4. Activate the theme in your WordPress dashboard.
-
-5. Begin building your headless application with Next.js!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-For more information or to contribute to this project, please reach out or submit a pull request!
-```
-
