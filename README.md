@@ -1,4 +1,3 @@
-Here's the complete README.md file in Markdown format for easy copying:
 
 # CycoServe Admin Theme
 
