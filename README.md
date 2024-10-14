@@ -53,7 +53,5 @@ To get started with the CycoServe Admin Theme, follow these steps:
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
----
-
 For more information or to contribute to this project, please reach out or submit a pull request!
 
