@@ -1,5 +1,5 @@
 
-# CycoServe Admin Theme
+# CycoServe WP Admin Theme
 
 CycoServe is a robust framework built on top of Next.js, designed to streamline the development of full-stack applications. With an integrated Python CLI function, CycoServe enables developers to create API endpoints on the fly, enhancing the flexibility and efficiency of their projects. 
 
